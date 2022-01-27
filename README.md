@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leodaboss
+- 👋 Hi, I’m @tyrpakleo
 - 👀 I’m interested in probability, statistics, machine learning
 - 🌱 I’m currently learning mathematics, with a special focus on probability at the University of Oxford
 - 💞️ I’m looking to collaborate on ...
